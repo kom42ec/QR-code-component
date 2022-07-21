@@ -1,8 +1,10 @@
 # Frontend Mentor - QR code component solution
 
-Frontend Mentor Challenge URL: [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+Frontend Mentor Challenge URL: [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
-Live Site URL: [QR component link](https://kom42ec.github.io/QR-code-component/).
+Live Site URL: [QR component link](https://kom42ec.github.io/QR-code-component/)
+
+Frontend Mentor Solution URL: [QR component solution](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-csaZAW9IRN)
 
 ## Overview
 

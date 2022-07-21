@@ -46,4 +46,19 @@ The designs were created to the following widths:
 
 body {
   background-color: var(--Light-gray);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.qr-container {
+  width: 300px;
+  background-color: var(--White);
+  padding: 15px;
+}
+
+img {
+  width: 100%;
 }

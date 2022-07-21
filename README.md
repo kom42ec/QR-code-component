@@ -24,5 +24,5 @@ The challenge is to build out QR code component and get it looking as close to t
 
 ## Author
 
-Frontend Mentor - [@kom42ec](https://www.frontendmentor.io/profile/kom42ec)
-Twitter - [@kom42ec](https://twitter.com/kom42ec)
+- Frontend Mentor - [@kom42ec](https://www.frontendmentor.io/profile/kom42ec)
+- Twitter - [@kom42ec](https://twitter.com/kom42ec)
